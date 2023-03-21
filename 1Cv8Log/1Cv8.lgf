@@ -17,4 +17,7 @@
 {4,"_$Transaction$_.Begin",6},
 {4,"_$Transaction$_.Commit",7},
 {4,"_$Session$_.Finish",8},
-{4,"_$PerformError$_",9}
+{4,"_$PerformError$_",9},
+{4,"_$InfoBase$_.PredefinedDataUpdate",10},
+{5,f6272fe5-bc05-473f-b9c2-456a6e3e1615,"",1},
+{3,"BackgroundJob",3}
